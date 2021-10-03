@@ -1,0 +1,6 @@
+[submodule "journal_app_back"]
+	path = journal_app_back
+	url = https://github.com/yassineDh/journal_app_back.git
+[submodule "journal_app_front"]
+	path = journal_app_front
+	url = https://github.com/yassineDh/journal_app_front.git
